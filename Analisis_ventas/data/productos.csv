@@ -1,0 +1,525 @@
+﻿codigo;descripcion;categoria;valor_unitario
+C1;C-6 correa 6;Todos;20000
+C2;C-8 correa 8;Todos;20000
+C3;C-10 correa 10;Todos;20000
+C4;C-12 correa 12;Todos;20000
+C5;C-14 correa 14;Todos;20000
+C6;C-16 correa 16;Todos;20000
+C7;C-28 correa 28;Todos;22000
+C8;C-30 correa 30;Todos;22000
+C9;C-32 correa 32;Todos;22000
+C10;C-34 correa 34;Todos;22000
+C11;C-36 correa 36;Todos;22000
+CB1;CBR-2 camiseta blanca cuello redondo 2;Todos;13000
+CB2;CBR-4 camiseta blanca cuello redondo 4;Todos;13000
+CB3;CBR-6 camiseta blanca cuello redondo 6;Todos;13000
+CB4;CBR-8 camiseta blanca cuello redondo 8;Todos;13000
+CB5;CBR-10 camiseta blanca cuello redondo 10;Todos;13000
+CB6;CBR-12 camiseta blanca cuello redondo 12;Todos;13000
+CB7;CBR-14 camiseta blanca cuello redondo 14;Todos;13000
+CB8;CBR-16 camiseta blanca cuello redondo 16;Todos;13000
+CB9;CBR-S camiseta blanca cuello redondo S;Todos;15000
+CB10;CBR-M camiseta blanca cuello redondo M;Todos;15000
+CB11;CBR-L camiseta blanca cuello redondo L;Todos;15000
+CB12;CBR-XL camiseta blanca cuello redondo XL;Todos;15000
+SAN1;JcgM-6 Camisa Gala niño 6;San Jose;39000
+SAN2;JcgM-8 Camisa Gala niño 8;San Jose;40000
+SAN3;JcgM-10 Camisa Gala niño 10;San Jose;42000
+SAN4;JcgM-12 Camisa Gala niño 12;San Jose;44000
+SAN5;JcgM-14 Camisa Gala niño 14;San Jose;46000
+SAN6;JcgM-16 Camisa Gala niño 16;San Jose;48000
+SAN7;JcgM-XS Camisa Gala niño XS;San Jose;50000
+SAN8;JcgM-S Camisa Gala niño S;San Jose;50000
+SAN9;JcgM-M Camisa Gala niño M;San Jose;52000
+SAN10;JcgM-L Camisa Gala niño L;San Jose;54000
+SAN11;JpfM-4 Polo fisica niño 4;San Jose;36000
+SAN12;JpfM-6 Polo fisica niño 6;San Jose;37000
+SAN13;JpfM-8 Polo fisica niño 8;San Jose;39000
+SAN14;JpfM-10 Polo fisica niño 10;San Jose;40000
+SAN15;JpfM-12 Polo fisica niño 12;San Jose;42000
+SAN16;JpfM-14 Polo fisica niño 14;San Jose;44000
+SAN17;JpfM-16 Polo fisica niño 16;San Jose;46000
+SAN18;JpfM-S Polo fisica niño S;San Jose;47000
+SAN19;JpfM-M Polo fisica niño M;San Jose;48000
+SAN20;JpfM-L Polo fisica niño L;San Jose;50000
+SAN21;Js-4 Sudaderas 4;San Jose;60000
+SAN22;Js-6 Sudaderas 6;San Jose;63000
+SAN23;Js-8 Sudaderas 8;San Jose;63000
+SAN24;Js-10 Sudaderas 10;San Jose;66000
+SAN25;Js-12 Sudaderas 12;San Jose;70000
+SAN26;Js-14 Sudaderas 14;San Jose;73000
+SAN27;Js-16 Sudaderas 16;San Jose;75000
+SAN28;Js-S Sudaderas S;San Jose;78000
+SAN29;Js-M Sudaderas M;San Jose;80000
+SAN30;Js-L Sudaderas L;San Jose;82000
+SAN31;Js-XL Sudaderas XL;San Jose;83000
+SAN32;Jb-4 Bermuda 4;San Jose;26000
+SAN33;Jb-6 Bermuda 6;San Jose;28000
+SAN34;Jb-8 Bermuda 8;San Jose;30000
+SAN35;Jb-10 Bermuda 10;San Jose;31000
+SAN36;Jb-12 Bermuda 12;San Jose;32000
+SAN37;Jb-14 Bermuda 14;San Jose;34000
+SAN38;Jb-16 Bermuda 16;San Jose;36000
+SAN39;Jb-S Bermuda S;San Jose;37000
+SAN40;Jb-M Bermuda M;San Jose;38000
+SAN41;Jb-L Bermuda L;San Jose;38000
+SAN42;Jb-XL Bermuda XL;San Jose;40000
+SAN43;Jp-4 Pantaloneta  4;San Jose;23000
+SAN44;Jp-6 Pantaloneta  6;San Jose;24000
+SAN45;Jp-8 Pantaloneta  8;San Jose;26000
+SAN46;Jp-10 Pantaloneta  10;San Jose;27000
+SAN47;Jp-12 Pantaloneta  12;San Jose;29000
+SAN48;Jp-14 Pantaloneta  14;San Jose;31000
+SAN49;Jp-16 Pantaloneta  16;San Jose;33000
+SAN50;Jp-S Pantaloneta  S;San Jose;34000
+SAN51;Jp-M Pantaloneta  M;San Jose;35000
+SAN52;Jp-L Pantaloneta  L;San Jose;36000
+SAN53;Jp-XL Pantaloneta  XL;San Jose;37000
+SAN54;Jpl-4 Pantalon largo 4;San Jose;65000
+SAN55;Jpl-6 Pantalon largo 6;San Jose;65000
+SAN56;Jpl-8 Pantalon largo 8;San Jose;70000
+SAN57;Jpl-10 Pantalon largo 10;San Jose;70000
+SAN58;Jpl-12 Pantalon largo 12;San Jose;74000
+SAN59;Jpl-14 Pantalon largo 14;San Jose;75000
+SAN60;Jpl-16 Pantalon largo 16;San Jose;78000
+SAN61;Jpl-30 Pantalon largo 30;San Jose;80000
+SAN62;Jpl-32 Pantalon largo 32;San Jose;84000
+SAN63;Jpl-34 Pantalon largo 34;San Jose;85000
+SAN64;Jpl-36 Pantalon largo 36;San Jose;88000
+SAN65;Jba-4 Buso azul 4;San Jose;55000
+SAN66;Jba-6 Buso azul 6;San Jose;55000
+SAN67;Jba-8 Buso azul 8;San Jose;55000
+SAN68;Jba-10 Buso azul 10;San Jose;60000
+SAN69;Jba-12 Buso azul 12;San Jose;60000
+SAN70;Jba-14 Buso azul 14;San Jose;63000
+SAN71;Jba-16 Buso azul 16;San Jose;65000
+SAN72;Jba-S Buso azul S;San Jose;65000
+SAN73;Jba-M Buso azul M;San Jose;68000
+SAN74;Jba-L Buso azul L;San Jose;70000
+SAN75;Jba-XL Buso azul XL;San Jose;70000
+SAN76;Jcj-2 Camiseta Jardin 2;San Jose;18000
+SAN77;Jcj-4 Camiseta Jardin 4;San Jose;18000
+SAN78;Jcj-6 Camiseta Jardin 6;San Jose;18000
+SAN79;Jcj-8 Camiseta Jardin 8;San Jose;18000
+SAN80;Jcha-4 Chaqueta 4;San Jose;70000
+SAN81;Jcha-6 Chaqueta 6;San Jose;70000
+SAN82;Jcha-8 Chaqueta 8;San Jose;75000
+SAN83;Jcha-10 Chaqueta 10;San Jose;75000
+SAN84;Jcha-12 Chaqueta 12;San Jose;75000
+SAN85;Jcha-14 Chaqueta 14;San Jose;80000
+SAN86;Jcha-16 Chaqueta 16;San Jose;80000
+SAN87;Jcha-S Chaqueta S;San Jose;88000
+SAN88;Jcha-M Chaqueta M;San Jose;90000
+SAN89;Jcha-L Chaqueta L;San Jose;90000
+SAN90;Jcha-XL Chaqueta XL;San Jose;90000
+SAN91;Jpc-2 pantalon corto 2;San Jose;40000
+SAN92;Jpc-4 pantalon corto 4;San Jose;40000
+SAN93;Jpc-6 pantalon corto 6;San Jose;42000
+SAN94;Jpc-8 pantalon corto 8;San Jose;44000
+SAN95;Jpc-10 pantalon corto 10;San Jose;46000
+SAN96;Jpc-12 pantalon corto 12;San Jose;46000
+SAN97;Jpc-14 pantalon corto 14;San Jose;46000
+SAN98;Jcor-10 corbata 10;San Jose;22000
+SAN99;Jcor-12 corbata 12;San Jose;24000
+SAN100;Jcor-14 corbata 14;San Jose;24000
+SAN101;Jcor-16 corbata 16;San Jose;24000
+SAN102;Jcorb-uni corbatin uni;San Jose;13000
+SAN103;Jblud-4 Blusa diario 4;San Jose;38000
+SAN104;Jblud-6 Blusa diario 6;San Jose;38000
+SAN105;Jblud-8 Blusa diario 8;San Jose;40000
+SAN106;Jblud-10 Blusa diario 10;San Jose;42000
+SAN107;Jblud-12 Blusa diario 12;San Jose;42000
+SAN108;Jblud-14 Blusa diario 14;San Jose;44000
+SAN109;Jblud-16 Blusa diario 16;San Jose;46000
+SAN110;Jblud-XS Blusa diario XS;San Jose;47000
+SAN111;Jblud-S Blusa diario S;San Jose;47000
+SAN112;Jblud-M Blusa diario M;San Jose;48000
+SAN113;Jblud-L Blusa diario L;San Jose;49000
+SAN114;Jblud-XL Blusa diario XL;San Jose;50000
+SAN115;Jblug-4 Blusa de gala 4;San Jose;40000
+SAN116;Jblug-6 Blusa de gala 6;San Jose;42000
+SAN117;Jblug-8 Blusa de gala 8;San Jose;42000
+SAN118;Jblug-10 Blusa de gala 10;San Jose;44000
+SAN119;Jblug-12 Blusa de gala 12;San Jose;46000
+SAN120;Jblug-14 Blusa de gala 14;San Jose;47000
+SAN121;Jblug-16 Blusa de gala 16;San Jose;48000
+SAN122;Jblug-XS Blusa de gala XS;San Jose;50000
+SAN123;Jblug-S Blusa de gala S;San Jose;50000
+SAN124;Jblug-M Blusa de gala M;San Jose;50000
+SAN125;Jblug-L Blusa de gala L;San Jose;53000
+SAN126;Jblug-XL Blusa de gala XL;San Jose;55000
+SAN127;JpfF-4 Polo fisica niña 4;San Jose;36000
+SAN128;JpfF-6 Polo fisica niña 6;San Jose;37000
+SAN129;JpfF-8 Polo fisica niña 8;San Jose;39000
+SAN130;JpfF-10 Polo fisica niña 10;San Jose;40000
+SAN131;JpfF-12 Polo fisica niña 12;San Jose;42000
+SAN132;JpfF-14 Polo fisica niña 14;San Jose;44000
+SAN133;JpfF-16 Polo fisica niña 16;San Jose;46000
+SAN134;JpfF-S Polo fisica niña S;San Jose;47000
+SAN135;JpfF-M Polo fisica niña M;San Jose;48000
+SAN136;JpfF-L Polo fisica niña L;San Jose;50000
+SAN137;JpfF-XL Polo fisica niña XL;San Jose;52000
+SAN138;Jg-4 Guayabera 4;San Jose;40000
+SAN139;Jg-6 Guayabera 6;San Jose;42000
+SAN140;Jg-8 Guayabera 8;San Jose;44000
+SAN141;Jg-10 Guayabera 10;San Jose;46000
+SAN142;Jg-12 Guayabera 12;San Jose;48000
+SAN143;Jg-14 Guayabera 14;San Jose;49000
+SAN144;Jg-16 Guayabera 16;San Jose;50000
+SAN145;Jg-S Guayabera S;San Jose;53000
+SAN146;Jg-M Guayabera M;San Jose;55000
+SAN147;Jg-L Guayabera L;San Jose;56000
+SAN148;Jg-XL Guayabera XL;San Jose;58000
+SAN149;Jmg-6-8 media galax 6-8;San Jose;10000
+SAN150;Jmg-8-10 media galax 8-10;San Jose;10000
+SAN151;Jgorra-grande Gorra san jose grande;San Jose;
+SAN152;Jmb-4-6 Media blanca 4-6;San Jose;9000
+SAN153;Jmb-6-8 Media blanca 6-8;San Jose;10000
+SAN154;Jmb-8-10 Media blanca 8-10;San Jose;10000
+SAN155;Jmb-9-11 Media blanca 9-11;San Jose;11000
+SAN156;Jmb-10-12 Media blanca 10-12;San Jose;11000
+SAN157;Jma-4-6 Media azul 4-6;San Jose;9000
+SAN158;Jma-6-8 Media azul 6-8;San Jose;10000
+SAN159;Jma-8-10 Media azul 8-10;San Jose;10000
+SAN160;Jma-9-11 Media azul 9-11;San Jose;11000
+SAN161;Jma-10-12 Media azul 10-12;San Jose;11000
+S1;Scdp-2 Camiseta diario preescolar 2;La salle;32000
+S2;Scdp-4 Camiseta diario preescolar 4;La salle;34000
+S3;Scdp-6 Camiseta diario preescolar 6;La salle;35000
+S4;Scdp-8 Camiseta diario preescolar 8;La salle;37000
+S5;Scdp-10 Camiseta diario preescolar 10;La salle;38000
+S6;Scdp-12 Camiseta diario preescolar 12;La salle;39000
+S7;Scde-4 Camiseta diario elementary 4;La salle;34000
+S8;Scde-6 Camiseta diario elementary 6;La salle;35000
+S9;Scde-8 Camiseta diario elementary 8;La salle;37000
+S10;Scde-10 Camiseta diario elementary 10;La salle;38000
+S11;Scde-12 Camiseta diario elementary 12;La salle;39000
+S12;Scde-14 Camiseta diario elementary 14;La salle;39000
+S13;Scde-16 Camiseta diario elementary 16;La salle;41000
+S14;Scde-S Camiseta diario elementary S;La salle;42000
+S15;Scde-M Camiseta diario elementary M;La salle;44000
+S16;Scde-L Camiseta diario elementary L;La salle;46000
+S17;Scde-XL Camiseta diario elementary XL;La salle;48000
+S18;Scdm-4 Camiseta diario middle school 4;La salle;34000
+S19;Scdm-6 Camiseta diario middle school 6;La salle;35000
+S20;Scdm-8 Camiseta diario middle school 8;La salle;37000
+S21;Scdm-10 Camiseta diario middle school 10;La salle;38000
+S22;Scdm-12 Camiseta diario middle school 12;La salle;39000
+S23;Scdm-14 Camiseta diario middle school 14;La salle;39000
+S24;Scdm-16 Camiseta diario middle school 16;La salle;41000
+S25;Scdm-S Camiseta diario middle school S;La salle;42000
+S26;Scdm-M Camiseta diario middle school M;La salle;44000
+S27;Scdm-L Camiseta diario middle school L;La salle;46000
+S28;Scdm-XL Camiseta diario middle school XL;La salle;48000
+S29;Scdh-4 camiseta diario high school 4;La salle;34000
+S30;Scdh-6 camiseta diario high school 6;La salle;35000
+S31;Scdh-8 camiseta diario high school 8;La salle;37000
+S32;Scdh-10 camiseta diario high school 10;La salle;38000
+S33;Scdh-12 camiseta diario high school 12;La salle;39000
+S34;Scdh-14 camiseta diario high school 14;La salle;39000
+S35;Scdh-16 camiseta diario high school 16;La salle;41000
+S36;Scdh-S camiseta diario high school S;La salle;42000
+S37;Scdh-M camiseta diario high school M;La salle;44000
+S38;Scdh-L camiseta diario high school L;La salle;46000
+S39;Scdh-XL camiseta diario high school XL;La salle;48000
+S40;Sjp-2 Jooger preescolar 2;La salle;43000
+S41;Sjp-4 Jooger preescolar 4;La salle;45000
+S42;Sjp-6 Jooger preescolar 6;La salle;47000
+S43;Sjp-8 Jooger preescolar 8;La salle;49000
+S44;Sjp-10 Jooger preescolar 10;La salle;53000
+S45;Sjp-12 Jooger preescolar 12;La salle;56000
+S46;Sj-4 Jooger 4;La salle;57000
+S47;Sj-6 Jooger 6;La salle;57000
+S48;Sj-8 Jooger 8;La salle;58000
+S49;Sj-10 Jooger 10;La salle;59000
+S50;Sj-12 Jooger 12;La salle;63000
+S51;Sj-14 Jooger 14;La salle;65000
+S52;Sj-16 Jooger 16;La salle;67000
+S53;Sj-S Jooger S;La salle;70000
+S54;Sj-M Jooger M;La salle;71000
+S55;Sj-L Jooger L;La salle;72000
+S56;Sj-XL Jooger XL;La salle;73000
+S57;Sbg-4 Buso gris 4;La salle;60000
+S58;Sbg-6 Buso gris 6;La salle;65000
+S59;Sbg-8 Buso gris 8;La salle;65000
+S60;Sbg-10 Buso gris 10;La salle;70000
+S61;Sbg-12 Buso gris 12;La salle;70000
+S62;Sbg-14 Buso gris 14;La salle;75000
+S63;Sbg-16 Buso gris 16;La salle;75000
+S64;Sbg-S Buso gris S;La salle;78000
+S65;Sbg-M Buso gris M;La salle;80000
+S66;Sbg-L Buso gris L;La salle;83000
+S67;Sbg-XL Buso gris XL;La salle;85000
+S68;Sbv-4 Buso vinotinto 4;La salle;70000
+S69;Sbv-6 Buso vinotinto 6;La salle;75000
+S70;Sbv-8 Buso vinotinto 8;La salle;75000
+S71;Sbv-10 Buso vinotinto 10;La salle;75000
+S72;Sbv-12 Buso vinotinto 12;La salle;75000
+S73;Sbv-14 Buso vinotinto 14;La salle;80000
+S74;Sbv-16 Buso vinotinto 16;La salle;80000
+S75;Sbv-S Buso vinotinto S;La salle;85000
+S76;Sbv-M Buso vinotinto M;La salle;90000
+S77;Sbv-L Buso vinotinto L;La salle;95000
+S78;Sbv-XL Buso vinotinto XL;La salle;100000
+S79;Sbb-4 Buso beige 4;La salle;65000
+S80;Sbb-6 Buso beige 6;La salle;70000
+S81;Sbb-8 Buso beige 8;La salle;70000
+S82;Sbb-10 Buso beige 10;La salle;75000
+S83;Sbb-12 Buso beige 12;La salle;75000
+S84;Sbb-14 Buso beige 14;La salle;80000
+S85;Sbb-16 Buso beige 16;La salle;80000
+S86;Sbb-S Buso beige S;La salle;83000
+S87;Sbb-M Buso beige M;La salle;85000
+S88;Sbb-L Buso beige L;La salle;90000
+S89;Sbb-XL Buso beige XL;La salle;93000
+S90;Scha-4 Chaqueta 4;La salle;75000
+S91;Scha-6 Chaqueta 6;La salle;80000
+S92;Scha-8 Chaqueta 8;La salle;80000
+S93;Scha-10 Chaqueta 10;La salle;85000
+S94;Scha-12 Chaqueta 12;La salle;85000
+S95;Scha-14 Chaqueta 14;La salle;90000
+S96;Scha-16 Chaqueta 16;La salle;90000
+S97;Scha-S Chaqueta S;La salle;95000
+S98;Scha-M Chaqueta M;La salle;100000
+S99;Scha-L Chaqueta L;La salle;105000
+S100;Scha-XL Chaqueta XL;La salle;110000
+S101;Sbt-4 Buso tradicional 4;La salle;59000
+S102;Sbt-6 Buso tradicional 6;La salle;67000
+S103;Sbt-8 Buso tradicional 8;La salle;71000
+S104;Sbt-10 Buso tradicional 10;La salle;74000
+S105;Sbt-12 Buso tradicional 12;La salle;74000
+S106;Sbt-14 Buso tradicional 14;La salle;76000
+S107;Sbt-16 Buso tradicional 16;La salle;77000
+S108;Sbt-S Buso tradicional S;La salle;77000
+S109;Sbt-M Buso tradicional M;La salle;79000
+S110;Sbt-L Buso tradicional L;La salle;80000
+S111;Sbt-XL Buso tradicional XL;La salle;84000
+S112;SpfF-4 Polo niña educacion fisica 4;La salle;38000
+S113;SpfF-6 Polo niña educacion fisica 6;La salle;42000
+S114;SpfF-8 Polo niña educacion fisica 8;La salle;43000
+S115;SpfF-10 Polo niña educacion fisica 10;La salle;44000
+S116;SpfF-12 Polo niña educacion fisica 12;La salle;47000
+S117;SpfF-14 Polo niña educacion fisica 14;La salle;48000
+S118;SpfF-16 Polo niña educacion fisica 16;La salle;49000
+S119;SpfF-S Polo niña educacion fisica S;La salle;51000
+S120;SpfF-M Polo niña educacion fisica M;La salle;53000
+S121;SpfF-L Polo niña educacion fisica L;La salle;54000
+S122;SpfF-XL Polo niña educacion fisica XL;La salle;55000
+S123;ScfF-4 Camisilla niña educacion fisica 4;La salle;22000
+S124;ScfF-6 Camisilla niña educacion fisica 6;La salle;24000
+S125;ScfF-8 Camisilla niña educacion fisica 8;La salle;26000
+S126;ScfF-10 Camisilla niña educacion fisica 10;La salle;28000
+S127;ScfF-12 Camisilla niña educacion fisica 12;La salle;28000
+S128;ScfF-14 Camisilla niña educacion fisica 14;La salle;30000
+S129;ScfF-16 Camisilla niña educacion fisica 16;La salle;30000
+S130;ScfF-S Camisilla niña educacion fisica S;La salle;31000
+S131;ScfF-M Camisilla niña educacion fisica M;La salle;31000
+S132;ScfF-L Camisilla niña educacion fisica L;La salle;32000
+S133;ScfF-XL Camisilla niña educacion fisica XL;La salle;32000
+S134;ScfF-XXL Camisilla niña educacion fisica XXL;La salle;34000
+S135;SpfM-4 Polo niño educacion fisica 4;La salle;38000
+S136;SpfM-6 Polo niño educacion fisica 6;La salle;42000
+S137;SpfM-8 Polo niño educacion fisica 8;La salle;43000
+S138;SpfM-10 Polo niño educacion fisica 10;La salle;44000
+S139;SpfM-12 Polo niño educacion fisica 12;La salle;47000
+S140;SpfM-14 Polo niño educacion fisica 14;La salle;48000
+S141;SpfM-16 Polo niño educacion fisica 16;La salle;49000
+S142;SpfM-S Polo niño educacion fisica S;La salle;51000
+S143;SpfM-M Polo niño educacion fisica M;La salle;53000
+S144;SpfM-L Polo niño educacion fisica L;La salle;54000
+S145;SpfM-XL Polo niño educacion fisica XL;La salle;55000
+S146;ScfM-4 Camisilla niño educacion fisica 4;La salle;22000
+S147;ScfM-6 Camisilla niño educacion fisica 6;La salle;24000
+S148;ScfM-8 Camisilla niño educacion fisica 8;La salle;26000
+S149;ScfM-10 Camisilla niño educacion fisica 10;La salle;28000
+S150;ScfM-12 Camisilla niño educacion fisica 12;La salle;28000
+S151;ScfM-14 Camisilla niño educacion fisica 14;La salle;30000
+S152;ScfM-16 Camisilla niño educacion fisica 16;La salle;30000
+S153;ScfM-S Camisilla niño educacion fisica S;La salle;31000
+S154;ScfM-M Camisilla niño educacion fisica M;La salle;31000
+S155;ScfM-L Camisilla niño educacion fisica L;La salle;32000
+S156;ScfM-XL Camisilla niño educacion fisica XL;La salle;32000
+S157;Ss-2 Sudadera educacion fisica 2;La salle;48000
+S158;Ss-4 Sudadera educacion fisica 4;La salle;50000
+S159;Ss-6 Sudadera educacion fisica 6;La salle;53000
+S160;Ss-8 Sudadera educacion fisica 8;La salle;55000
+S161;Ss-10 Sudadera educacion fisica 10;La salle;57000
+S162;Ss-12 Sudadera educacion fisica 12;La salle;61000
+S163;Ss-14 Sudadera educacion fisica 14;La salle;64000
+S164;Ss-16 Sudadera educacion fisica 16;La salle;66000
+S165;Ss-S Sudadera educacion fisica S;La salle;68000
+S166;Ss-M Sudadera educacion fisica M;La salle;70000
+S167;Ss-L Sudadera educacion fisica L;La salle;72000
+S168;Ss-XL Sudadera educacion fisica XL;La salle;74000
+S169;Sp-4 Pantaloneta  4;La salle;22000
+S170;Sp-6 Pantaloneta  6;La salle;25000
+S171;Sp-8 Pantaloneta  8;La salle;27000
+S172;Sp-10 Pantaloneta  10;La salle;28000
+S173;Sp-12 Pantaloneta  12;La salle;30000
+S174;Sp-14 Pantaloneta  14;La salle;31000
+S175;Sp-16 Pantaloneta  16;La salle;32000
+S176;Sp-S Pantaloneta  S;La salle;33000
+S177;Sp-M Pantaloneta  M;La salle;33000
+S178;Sp-L Pantaloneta  L;La salle;34000
+S179;Sp-XL Pantaloneta  XL;La salle;35000
+S180;Sp-XXL Pantaloneta  XXL;La salle;37000
+S181;Sb-4 Bermuda 4;La salle;26000
+S182;Sb-6 Bermuda 6;La salle;28000
+S183;Sb-8 Bermuda 8;La salle;29000
+S184;Sb-10 Bermuda 10;La salle;31000
+S185;Sb-12 Bermuda 12;La salle;32000
+S186;Sb-14 Bermuda 14;La salle;33000
+S187;Sb-16 Bermuda 16;La salle;34000
+S188;Sb-S Bermuda S;La salle;35000
+S189;Sb-M Bermuda M;La salle;37000
+S190;Sb-L Bermuda L;La salle;38000
+S191;Sb-XL Bermuda XL;La salle;39000
+S192;Smf-4-6 medias educacion fisica 4-6;La salle;9000
+S193;Smf-6-8 medias educacion fisica 6-8;La salle;10000
+S194;Smf-8-10 medias educacion fisica 8-10;La salle;10000
+S195;Smf-9-11 medias educacion fisica 9-11;La salle;11000
+S196;Smf-10-12 medias educacion fisica 10-12;La salle;11000
+S197;Smd-4-6 medias diario azul 4-6;La salle;9000
+S198;Smd-6-8 medias diario azul 6-8;La salle;10000
+S199;Smd-8-10 medias diario azul 8-10;La salle;10000
+S200;Smd-9-11 medias diario azul 9-11;La salle;11000
+S201;Smd-10-12 medias diario azul 10-12;La salle;11000
+G1;GcM-4 Camiseta interior niño 4;Gimancio Superior;27000
+G2;GcM-6 Camiseta interior niño 6;Gimancio Superior;28000
+G3;GcM-8 Camiseta interior niño 8;Gimancio Superior;29000
+G4;GcM-10 Camiseta interior niño 10;Gimancio Superior;30000
+G5;GcM-12 Camiseta interior niño 12;Gimancio Superior;31000
+G6;GcM-14 Camiseta interior niño 14;Gimancio Superior;32000
+G7;GcM-16 Camiseta interior niño 16;Gimancio Superior;33000
+G8;GcM-S Camiseta interior niño S;Gimancio Superior;34000
+G9;GcM-M Camiseta interior niño M;Gimancio Superior;35000
+G10;GcM-L Camiseta interior niño L;Gimancio Superior;36000
+G11;GcM-XL Camiseta interior niño XL;Gimancio Superior;37000
+G12;GcF-4 Camiseta interior niña 4;Gimancio Superior;27000
+G13;GcF-6 Camiseta interior niña 6;Gimancio Superior;28000
+G14;GcF-8 Camiseta interior niña 8;Gimancio Superior;29000
+G15;GcF-10 Camiseta interior niña 10;Gimancio Superior;30000
+G16;GcF-12 Camiseta interior niña 12;Gimancio Superior;31000
+G17;GcF-14 Camiseta interior niña 14;Gimancio Superior;32000
+G18;GcF-16 Camiseta interior niña 16;Gimancio Superior;33000
+G19;GcF-S Camiseta interior niña S;Gimancio Superior;34000
+G20;GcF-M Camiseta interior niña M;Gimancio Superior;35000
+G21;GcF-L Camiseta interior niña L;Gimancio Superior;36000
+G22;GcF-XL Camiseta interior niña XL;Gimancio Superior;37000
+G23;GpfM-4 Polo fisica niño 4;Gimancio Superior;37000
+G24;GpfM-6 Polo fisica niño 6;Gimancio Superior;38000
+G25;GpfM-8 Polo fisica niño 8;Gimancio Superior;40000
+G26;GpfM-10 Polo fisica niño 10;Gimancio Superior;42000
+G27;GpfM-12 Polo fisica niño 12;Gimancio Superior;44000
+G28;GpfM-14 Polo fisica niño 14;Gimancio Superior;46000
+G29;GpfM-16 Polo fisica niño 16;Gimancio Superior;48000
+G30;GpfM-S Polo fisica niño S;Gimancio Superior;50000
+G31;GpfM-M Polo fisica niño M;Gimancio Superior;52000
+G32;GpfM-L Polo fisica niño L;Gimancio Superior;54000
+G33;GpfM-XL Polo fisica niño XL;Gimancio Superior;56000
+G34;GpfF-4 Polo fisica niña 4;Gimancio Superior;37000
+G35;GpfF-6 Polo fisica niña 6;Gimancio Superior;38000
+G36;GpfF-8 Polo fisica niña 8;Gimancio Superior;40000
+G37;GpfF-10 Polo fisica niña 10;Gimancio Superior;42000
+G38;GpfF-12 Polo fisica niña 12;Gimancio Superior;44000
+G39;GpfF-14 Polo fisica niña 14;Gimancio Superior;46000
+G40;GpfF-16 Polo fisica niña 16;Gimancio Superior;48000
+G41;GpfF-S Polo fisica niña S;Gimancio Superior;50000
+G42;GpfF-M Polo fisica niña M;Gimancio Superior;52000
+G43;GpfF-L Polo fisica niña L;Gimancio Superior;54000
+G44;GpfF-XL Polo fisica niña XL;Gimancio Superior;56000
+G45;Gblu-4 Blusa 4;Gimancio Superior;40000
+G46;Gblu-6 Blusa 6;Gimancio Superior;45000
+G47;Gblu-8 Blusa 8;Gimancio Superior;45000
+G48;Gblu-10 Blusa 10;Gimancio Superior;48000
+G49;Gblu-12 Blusa 12;Gimancio Superior;48000
+G50;Gblu-14 Blusa 14;Gimancio Superior;50000
+G51;Gblu-16 Blusa 16;Gimancio Superior;50000
+G52;Gblu-S Blusa S;Gimancio Superior;52000
+G53;Gblu-M Blusa M;Gimancio Superior;54000
+G54;Gblu-L Blusa L;Gimancio Superior;56000
+G55;Gblu-XL Blusa XL;Gimancio Superior;57000
+G56;Gp-4 pantaloneta 4;Gimancio Superior;25000
+G57;Gp-6 pantaloneta 6;Gimancio Superior;25000
+G58;Gp-8 pantaloneta 8;Gimancio Superior;28000
+G59;Gp-10 pantaloneta 10;Gimancio Superior;28000
+G60;Gp-12 pantaloneta 12;Gimancio Superior;30000
+G61;Gp-14 pantaloneta 14;Gimancio Superior;30000
+G62;Gp-16 pantaloneta 16;Gimancio Superior;30000
+G63;Gp-S pantaloneta S;Gimancio Superior;30000
+G64;Gp-M pantaloneta M;Gimancio Superior;32000
+G65;Gp-L pantaloneta L;Gimancio Superior;32000
+G66;Gp-XL pantaloneta XL;Gimancio Superior;34000
+G67;Gb-4 Bermuda 4;Gimancio Superior;26000
+G68;Gb-6 Bermuda 6;Gimancio Superior;28000
+G69;Gb-8 Bermuda 8;Gimancio Superior;30000
+G70;Gb-10 Bermuda 10;Gimancio Superior;30000
+G71;Gb-12 Bermuda 12;Gimancio Superior;34000
+G72;Gb-14 Bermuda 14;Gimancio Superior;34000
+G73;Gb-16 Bermuda 16;Gimancio Superior;36000
+G74;Gb-S Bermuda S;Gimancio Superior;36000
+G75;Gb-M Bermuda M;Gimancio Superior;38000
+G76;Gb-L Bermuda L;Gimancio Superior;39000
+G77;Gb-XL Bermuda XL;Gimancio Superior;40000
+G78;Gs-4 Sudadera 4;Gimancio Superior;52000
+G79;Gs-6 Sudadera 6;Gimancio Superior;54000
+G80;Gs-8 Sudadera 8;Gimancio Superior;56000
+G81;Gs-10 Sudadera 10;Gimancio Superior;58000
+G82;Gs-12 Sudadera 12;Gimancio Superior;60000
+G83;Gs-14 Sudadera 14;Gimancio Superior;64000
+G84;Gs-16 Sudadera 16;Gimancio Superior;68000
+G85;Gs-S Sudadera S;Gimancio Superior;70000
+G86;Gs-M Sudadera M;Gimancio Superior;70000
+G87;Gs-L Sudadera L;Gimancio Superior;75000
+G88;Gs-XL Sudadera XL;Gimancio Superior;77000
+G89;Gpr-4 Polo rojo 4;Gimancio Superior;39000
+G90;Gpr-6 Polo rojo 6;Gimancio Superior;40000
+G91;Gpr-8 Polo rojo 8;Gimancio Superior;42000
+G92;Gpr-10 Polo rojo 10;Gimancio Superior;42000
+G93;Gpr-12 Polo rojo 12;Gimancio Superior;44000
+G94;Gpr-14 Polo rojo 14;Gimancio Superior;44000
+G95;Gpr-16 Polo rojo 16;Gimancio Superior;46000
+G96;Gpr-S Polo rojo S;Gimancio Superior;46000
+G97;Gpr-M Polo rojo M;Gimancio Superior;48000
+G98;Gpr-L Polo rojo L;Gimancio Superior;50000
+G99;Gpr-XL Polo rojo XL;Gimancio Superior;54000
+G100;Gf-4 Falda 4;Gimancio Superior;68000
+G101;Gf-6 Falda 6;Gimancio Superior;69000
+G102;Gf-8 Falda 8;Gimancio Superior;75000
+G103;Gf-10 Falda 10;Gimancio Superior;75000
+G104;Gf-12 Falda 12;Gimancio Superior;85000
+G105;Gf-14 Falda 14;Gimancio Superior;85000
+G106;Gf-16 Falda 16;Gimancio Superior;90000
+G107;Gf-S Falda S;Gimancio Superior;90000
+G108;Gf-M Falda M;Gimancio Superior;95000
+G109;Gf-L Falda L;Gimancio Superior;95000
+G110;Gf-XL Falda XL;Gimancio Superior;100000
+G111;Gp-4 Pantalon 4;Gimancio Superior;60000
+G112;Gp-6 Pantalon 6;Gimancio Superior;65000
+G113;Gp-8 Pantalon 8;Gimancio Superior;65000
+G114;Gp-10 Pantalon 10;Gimancio Superior;70000
+G115;Gp-12 Pantalon 12;Gimancio Superior;70000
+G116;Gp-14 Pantalon 14;Gimancio Superior;75000
+G117;Gp-16 Pantalon 16;Gimancio Superior;75000
+G118;Gp-S Pantalon S;Gimancio Superior;80000
+G119;Gp-M Pantalon M;Gimancio Superior;80000
+G120;Gp-L Pantalon L;Gimancio Superior;85000
+G121;Gp-XL Pantalon XL;Gimancio Superior;85000
+G122;Gbus-4 Buso 4;Gimancio Superior;
+G123;Gbus-6 Buso 6;Gimancio Superior;
+G124;Gbus-8 Buso 8;Gimancio Superior;
+G125;Gbus-10 Buso 10;Gimancio Superior;
+G126;Gbus-12 Buso 12;Gimancio Superior;
+G127;Gbus-14 Buso 14;Gimancio Superior;
+G128;Gbus-16 Buso 16;Gimancio Superior;
+G129;Gbus-S Buso S;Gimancio Superior;
+G130;Gbus-M Buso M;Gimancio Superior;
+G131;Gbus-L Buso L;Gimancio Superior;
+G132;Gbus-XL Buso XL;Gimancio Superior;
+G133;Gmb-4-6 Media blanca 4-6;Gimancio Superior;9000
+G134;Gmb-6-8 Media blanca 6-8;Gimancio Superior;10000
+G135;Gmb-8-10 Media blanca 8-10;Gimancio Superior;10000
+G136;Gmb-9-11 Media blanca 9-11;Gimancio Superior;11000
+G137;Gmb-10-12 Media blanca 10-12;Gimancio Superior;11000
+SS-P;SOMBRERO PEQUEÑO SALLE CONVIVENCIA;SALLE;16000
+SS-G;SOMBRERO GRANDE SALLE CONVIVENCIA;SALLE;16000
